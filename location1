@@ -1,0 +1,50 @@
+[
+  {
+    "location": {
+      "City": "Chennai",
+      "Country": "India"
+    },
+    "icon": "standard:account",
+    "title": "Chennai"
+  },
+  {
+    "location": {
+      "City": "Sydney",
+      "Country": "Australia"
+    },
+    "icon": "standard:account",
+    "title": "Sydney"
+  },
+  {
+    "location": {
+      "City": "Delhi",
+      "Country": "India"
+    },
+    "icon": "standard:account",
+    "title": "Delhi"
+  },
+  {
+    "location": {
+      "City": "Mumbai",
+      "Country": "India"
+    },
+    "icon": "standard:account",
+    "title": "Mumbai"
+  },
+  {
+    "location": {
+      "City": "Wellington",
+      "Country": "New Zealand"
+    },
+    "icon": "standard:account",
+    "title": "Wellington"
+  },
+  {
+    "location": {
+      "City": "Hydrebad",
+      "Country": "India"
+    },
+    "icon": "standard:account",
+    "title": "Hydrebad"
+  }
+]
