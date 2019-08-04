@@ -1,0 +1,42 @@
+[
+  {
+    "location": {
+      "Latitude": "13.08784",
+      "Longitude": "80.27847"
+    },
+    "icon": "standard:account",
+    "title": "Chennai"
+  },
+  {
+    "location": {
+      "Latitude": "28.65381",
+      "Longitude": "77.22897"
+    },
+    "icon": "standard:account",
+    "title": "Delhi"
+  },
+  {
+    "location": {
+      "Latitude": "19.07283",
+      "Longitude": "72.88261"
+    },
+    "icon": "standard:account",
+    "title": "Mumbai"
+  },
+  {
+    "location": {
+      "Latitude": "23.9408",
+      "Longitude": "91.9882"
+    },
+    "icon": "standard:account",
+    "title": "Tiripura"
+  },
+  {
+    "location": {
+      "Latitude": "17.38405",
+      "Longitude": "78.45636"
+    },
+    "icon": "standard:account",
+    "title": "Hydrebad"
+  }
+]
